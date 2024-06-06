@@ -1,1 +1,1 @@
-This is the project about predicting the flight prices. I have build the diffrent types of models like KNN, boosted tree, Random forest etc., to asses the best price for company and for the travellers.
+This is a project about predicting flight prices. I have built different types of models like KNN, boosted tree, Random forest, etc., to assess the best price for the company and the travelers.
